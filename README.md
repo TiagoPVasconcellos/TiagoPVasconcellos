@@ -1,7 +1,7 @@
 ### Hi there! I´m Tiago 🤠
 
 
-- 🐍 I’m currently learning Javascript and Python!
+- 🐍 I’m currently learning Javascript and Python
 - 🗺️ I´m looking for my first experience as a programmer
 - 📚 I’m studying ADS 
 - 📫 My mail: tipvasconcellos@gmail.com
